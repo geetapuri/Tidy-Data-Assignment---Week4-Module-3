@@ -1,3 +1,29 @@
+### Updates to Original Readme.md
+
+The following steps have been taken to produce the tidy data set required for this assignment - 
+
+#Step 1. Downloading and Unzipping dataset
+
+#Step 2. Reading the data sets and merging them into 1
+
+#Step 3 - Assigning names to columns
+
+#Step 4 - Merge train cols into 1 data set - common_train
+
+#Step 5 - Merge test cols into 1 data set - common_test
+
+#Step 6 - Merge common training and common test into one data set - common_data
+
+#Step 7 - Make new table with only values related to mean and std 
+
+#Step 8 - Using descriptive names for activities - 
+
+#Step 9 - Making the second tidy data set using aggregate
+
+#Step10 - Order the second tidy data set by subject ID and activity ID
+
+#Step 11 - Write the table in txt format
+
 ==================================================================
 Human Activity Recognition Using Smartphones Dataset
 Version 1.0
